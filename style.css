@@ -1,0 +1,57 @@
+#navbar {
+    background-color: gray;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#navbar ul li {
+    display: inline;
+}
+
+#navbar ul li a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#navbar ul li a:hover {
+    background-color: #575757;
+}
+
+#blok1, #blok2, #blok3 {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#blok1 {
+    background-color: whitesmoke;
+}
+
+#blok2 {
+    background-color: lightgray;
+}
+
+#blok3 {
+    background-color: lightcyan;
+}
+
+h2 {
+    color: #003366;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
